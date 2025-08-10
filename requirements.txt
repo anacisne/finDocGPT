@@ -1,0 +1,17 @@
+matplotlib
+nltk
+numpy
+openai
+pandas
+prophet
+python-dotenv
+pypdf
+pyyaml
+scikit-learn
+spacy
+statsmodels
+streamlit
+torch
+transformers
+yfinance
+plotly

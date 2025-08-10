@@ -1,0 +1,280 @@
+[
+  {
+    "financebench_id": "financebench_id_01858",
+    "question": "Does 3M maintain a stable trend of dividend distribution?",
+    "answer": "Yes. 3M has paid dividends since 1916 and has increased its dividend for decades, marking its 61st consecutive year of increases; per-share dividends rose from $4.44 (2016) to $4.70 (2017) to $5.44 (2018), indicating a stable, consistently rising distribution.",
+    "citations": [
+      {
+        "doc": "3M_2018_10K",
+        "page": 48
+      },
+      {
+        "doc": "3M_2018_10K",
+        "page": 26
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_08286",
+    "question": "By drawing conclusions from the information stated only in the income statement, what is Amazon's FY2019 net income attributable to shareholders (in USD millions)?",
+    "answer": "11,588 million USD",
+    "citations": [
+      {
+        "doc": "AMAZON_2019_10K",
+        "page": 37
+      },
+      {
+        "doc": "AMAZON_2020_10K",
+        "page": 38
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_03882",
+    "question": "What is Amcor's year end FY2020 net AR (in USD millions)? Address the question by adopting the perspective of a financial analyst who can only use the details shown within the balance sheet.",
+    "answer": "1,616 million USD",
+    "citations": [
+      {
+        "doc": "AMCOR_2021_10K",
+        "page": 51
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01148",
+    "question": "What industry does AMCOR primarily operate in?",
+    "answer": "Packaging industry",
+    "citations": [
+      {
+        "doc": "AMCOR_2019_10K",
+        "page": 0
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01275",
+    "question": "Among operations, investing, and financing activities, which brought in the most (or lost the least) cash flow for Best Buy in FY2023?",
+    "answer": "Operating activities",
+    "citations": [
+      {
+        "doc": "BESTBUY_2023Q4_EARNINGS",
+        "page": 8
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00517",
+    "question": "Are there any product categories / service categories that represent more than 20% of Boeing's revenue for FY2022?",
+    "answer": "Yes. In FY2022, Sales of products were $55,893 of $66,608 in total revenue (~84%), exceeding 20%. (Sales of services were $10,715, ~16%.)",
+    "citations": [
+      {
+        "doc": "BOEING_2022_10K",
+        "page": 55
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01091",
+    "question": "Has Boeing reported any materially important ongoing legal battles from FY2022?",
+    "answer": "Yes. Boeing\u2019s FY2022 Form 10\u2011K reports multiple legal actions related to the 2018 Lion Air Flight 610 and 2019 Ethiopian Airlines Flight 302 accidents (with certain government investigations resolved in 2021\u20132022).",
+    "citations": [
+      {
+        "doc": "BOEING_2022_10K",
+        "page": 0
+      },
+      {
+        "doc": "BOEING_2022_10K",
+        "page": 2
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00494",
+    "question": "What production rate changes is Boeing forecasting for FY2023?",
+    "answer": "For 2023, Boeing forecasts: 787 ramping up to 5 airplanes per month; 777X production resuming; and 737 gradually increasing above the stabilized 31 per month based on market demand and supply chain capacity.",
+    "citations": [
+      {
+        "doc": "BOEING_2022_10K",
+        "page": 0
+      },
+      {
+        "doc": "BOEING_2022_10K",
+        "page": 9
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01244",
+    "question": "Has CVS Health paid dividends to common shareholders in Q2 of FY2022?",
+    "answer": "Yes",
+    "citations": [
+      {
+        "doc": "CVSHEALTH_2022_10K",
+        "page": 68
+      },
+      {
+        "doc": "CVSHEALTH_2021_10K",
+        "page": 67
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00956",
+    "question": "Are JnJ's FY2022 financials that of a high growth company?",
+    "answer": "No. FY2022 delivered low single-digit growth \u2014 about 4% operational sales growth (excluding the COVID-19 vaccine) and 3.5% adjusted operational EPS growth \u2014 indicating stability rather than high growth.",
+    "citations": [
+      {
+        "doc": "JOHNSON_JOHNSON_2022Q4_EARNINGS",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01484",
+    "question": "How did JnJ's US sales growth compare to international sales growth in FY2022?",
+    "answer": "US sales grew 3.0% year over year, while international sales declined 0.6% in FY2022.",
+    "citations": [
+      {
+        "doc": "JOHNSON_JOHNSON_2022_10K",
+        "page": 28
+      },
+      {
+        "doc": "JOHNSON_JOHNSON_2022_10K",
+        "page": 28
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01491",
+    "question": "What is the amount of the cash proceeds that JnJ realised from the separation of Kenvue (formerly Consumer Health business segment), as of August 30, 2023?",
+    "answer": "$13.2 billion",
+    "citations": [
+      {
+        "doc": "JOHNSON_JOHNSON_2023_8K_dated-2023-08-30",
+        "page": 6
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01487",
+    "question": "Did JnJ's net earnings as a percent of sales increase in Q2 of FY2023 compared to Q2 of FY2022?",
+    "answer": "No",
+    "citations": [
+      {
+        "doc": "JOHNSON_JOHNSON_2023Q2_EARNINGS",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_03031",
+    "question": "What is Lockheed Martin's FY2021 net working capital? Define net working capital as total current assets less total current liabilities. Answer in USD millions. Respond to the question by assuming the perspective of an investment analyst who can only use the details shown within the balance sheet.",
+    "answer": "USD 5,818 million",
+    "citations": [
+      {
+        "doc": "LOCKHEEDMARTIN_2022Q2_10Q",
+        "page": 5
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00407",
+    "question": "Which type of debt received the largest investment among the short term investments for MGM in H1 FY2023?",
+    "answer": "Corporate bonds",
+    "citations": [
+      {
+        "doc": "MGMRESORTS_2023Q2_10Q",
+        "page": 11
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_03282",
+    "question": "What is Netflix's year end FY2017 total current liabilities (in USD millions)? Base your judgments on the information provided primarily in the balance sheet.",
+    "answer": "5,466.312 USD millions",
+    "citations": [
+      {
+        "doc": "NETFLIX_2017_10K",
+        "page": 45
+      },
+      {
+        "doc": "NETFLIX_2018_10K",
+        "page": 45
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00705",
+    "question": "By how much did Pepsico increase its unsecured five year revolving credit agreement on May 26, 2023?",
+    "answer": "$400,000,000",
+    "citations": [
+      {
+        "doc": "PEPSICO_2023_8K_dated-2023-05-30",
+        "page": 2
+      },
+      {
+        "doc": "PEPSICO_2023_8K_dated-2023-05-30",
+        "page": 2
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00882",
+    "question": "As of May 26, 2023, what is the total amount Pepsico may borrow under its unsecured revolving credit agreements?",
+    "answer": "8,400,000,000 USD",
+    "citations": [
+      {
+        "doc": "PEPSICO_2023_8K_dated-2023-05-30",
+        "page": 2
+      },
+      {
+        "doc": "PEPSICO_2023_8K_dated-2023-05-30",
+        "page": 2
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_01476",
+    "question": "As of FY2023Q1, by how many percentage points did Pepsico raise full year guidance in respect of core constant currency EPS growth?",
+    "answer": "1 percentage point",
+    "citations": [
+      {
+        "doc": "PEPSICO_2023Q1_EARNINGS",
+        "page": 1
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00702",
+    "question": "Were there any potential events that are not in Pfizer's standard business operations that substantially increased net income in 2019?",
+    "answer": "Yes. Pfizer recorded an $8.086 billion gain on completion of the Consumer Healthcare joint venture in 2019, a non-operational item that substantially increased income.",
+    "citations": [
+      {
+        "doc": "PFIZER_2019_10K",
+        "page": 85
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00283",
+    "question": "How much does Pfizer expect to pay to spin off Upjohn in the future in USD million?",
+    "answer": "500 USD million",
+    "citations": [
+      {
+        "doc": "PFIZER_2019_10K",
+        "page": 37
+      }
+    ]
+  },
+  {
+    "financebench_id": "financebench_id_00601",
+    "question": "What drove the reduction in SG&A expense as a percent of net sales in FY2023?",
+    "answer": "Lower marketing expenses and leverage of incentive compensation due to higher sales, partially offset by deleverage of corporate overhead from strategic investments and store payroll and benefits due to wage investments.",
+    "citations": [
+      {
+        "doc": "ULTABEAUTY_2023Q4_EARNINGS",
+        "page": 2
+      }
+    ]
+  }
+]
