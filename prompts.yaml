@@ -1,0 +1,17 @@
+system: |
+  Answer only from CONTEXT. If numeric, return a single number with unit.
+  If evidence is insufficient, return "insufficient evidence".
+  Always include citations as { "doc": "<DOC_NAME>", "page": <PAGE> }.
+
+user_template: |
+  QUESTION:
+  {question}
+
+  CONTEXT:
+  {contexts}
+
+  OUTPUT JSON SCHEMA:
+  {
+    "answer": "string",
+    "citations": [{ "doc": "string", "page": 0 }]
+  }
